@@ -1,6 +1,8 @@
 # POS SYSTEM (Point of Sale System)
 
-In this **POS SYSTEM** has all the functionalities of a pos system, like logging, customer management, item management, order placing
+## Introduction
+
+In this **POS SYSTEM** has all the functionalities of a pos system, like customer management, item management, order placing
  and order viewing. It has inbuilt memory.It consists of five main parts;
 
     * Manage customers
@@ -9,8 +11,16 @@ In this **POS SYSTEM** has all the functionalities of a pos system, like logging
     * View orders
     * Search order
 
+## Usage
+ 1. Install Java Runtime Environment.
+ 
+ 2. Clone the repository.
+ `git clone https://github.com/LawrenceAsanka/Point-of-Sale-System.git`
+ 
+ 3. Open it in InteliJ IDEA or any other IDE.
+ 
 ## Different Implementations of POS
-* [In Memory POS]()
+* [In Memory POS](https://github.com/LawrenceAsanka/Point-of-Sale-System.git)
 * [POS with JDBC (Java DataBase Connectivity)]()
 * [POS with Layered Architecture]()
 * [POS with Layered-Hibernate]()
@@ -28,10 +38,15 @@ POS with Maven
 * [POS with Layered-[Spring knows JPA Maven]]()
 * [POS with Layered-[Spring Data JPA Maven]]()
 
+##### DASHBOARD
 ![Dashboard](screenshots/Dashboard.png?raw=true "DASHBOARD")
+##### Manage Customers
 ![Manage Customers](screenshots/Manage-Customer.png?raw=true "Manage Customers")
+##### Manage Items
 ![Manage Items](screenshots/Manage-Items.png?raw=true "Manage Items")
+##### PlaceOrder
 ![Place-Order](screenshots/Placeorder.png?raw=true "Place-order")
+##### Search Order
 ![Search-Order](screenshots/Search-order.png?raw=true "Search-order")
   
 ## Contributing
@@ -39,5 +54,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-Distributed under the MIT License. See [LICENSE](https://choosealicense.com/licenses/mit/) for more information.
+Distributed under the MIT License. See [License](LICENSE) for more information.
 
