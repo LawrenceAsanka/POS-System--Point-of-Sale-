@@ -10,18 +10,23 @@ In this **POS SYSTEM** has all the functionalities of a pos system, like custome
     * Place orders
     * View orders
     * Search order
+   
+Further this POS System has implemented by using various technologies and frameworks.
+You can check those implementations, in the **'Different Implementations of POS System'** section. 
 
-## Usage
- 1. Install Java Runtime Environment.
+## Requirements
+
+* Before use this application you must need to install [JAVA](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) runtime environment.
+
+## Installation
+
+ 1. Clone or Download the repository.
+ 2. Open it in IntelliJ IDEA or any other IDE.
+ 5. Test it!.
  
- 2. Clone the repository.
- `git clone https://github.com/LawrenceAsanka/Point-of-Sale-System.git`
- 
- 3. Open it in InteliJ IDEA or any other IDE.
- 
-## Different Implementations of POS
+## Different Implementations of POS System
 * [In Memory POS](https://github.com/LawrenceAsanka/Point-of-Sale-System.git)
-* [POS with JDBC (Java DataBase Connectivity)]()
+* [POS with JDBC (Java DataBase Connectivity)](https://github.com/LawrenceAsanka/POS-system-with-JDBC)
 * [POS with Layered Architecture]()
 * [POS with Layered-Hibernate]()
 * [POS with Layered-JPA Hibernate]()
