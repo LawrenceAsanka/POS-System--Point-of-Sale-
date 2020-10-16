@@ -29,7 +29,7 @@ You can check those implementations, in the **'Different Implementations of POS 
 * [POS with JDBC (Java DataBase Connectivity)](https://github.com/LawrenceAsanka/POS-system-with-JDBC)
 * [POS with Layered Architecture](https://github.com/LawrenceAsanka/POS-system-with-Layered-Architecture)
 * [POS with Layered-Hibernate]()
-* [POS with Layered-JPA Hibernate]()
+* [POS with Layered-JPA Hibernate](https://github.com/LawrenceAsanka/POS-system-layered-JPA)
 * [POS with Layered-Hibernate-Spring]()
 * [POS with Layered-JPA Hibernate-Spring]()
 
