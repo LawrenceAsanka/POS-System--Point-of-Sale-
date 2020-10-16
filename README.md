@@ -31,7 +31,7 @@ You can check those implementations, in the **'Different Implementations of POS 
 * [POS with Layered-Hibernate](https://github.com/LawrenceAsanka/POS-system-layered-Hibernate)
 * [POS with Layered-JPA Hibernate](https://github.com/LawrenceAsanka/POS-system-layered-JPA)
 * [POS with Layered-Hibernate-Spring]()
-* [POS with Layered-JPA Hibernate-Spring]()
+* [POS with Layered-JPA Hibernate-Spring](https://github.com/LawrenceAsanka/POS-system-with-layered-JPA-Spring)
 
 POS with Maven
 * [POS with Layered-Maven]()
