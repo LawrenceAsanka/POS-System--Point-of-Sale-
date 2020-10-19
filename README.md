@@ -39,9 +39,9 @@ POS with Maven
 * [POS with Layered-[JPA Hibernate-Maven]](https://github.com/LawrenceAsanka/POS-system-layered-JPA-maven)
 * [POS with Layered-[Hibernate-Spring-Maven]](https://github.com/LawrenceAsanka/pos-with-layered-hibernate-spring-maven)
 * [POS with Layered-[JPA Hibernate-Spring-Maven]](https://github.com/LawrenceAsanka/pos-with-layered-jpa-spring-maven)
-* [POS with Layered-[Spring knows Hibernate Maven]](https://github.com/LawrenceAsanka/POS-with-layered-spring-knows-hibernate-maven)
-* [POS with Layered-[Spring knows JPA Maven]]()
-* [POS with Layered-[Spring Data JPA Maven]]()
+* [POS with Layered-[Spring knows Hibernate Maven]](https://github.com/LawrenceAsanka/POS-system-spring-knows-hibernate-maven)
+* [POS with Layered-[Spring knows JPA Maven]](https://github.com/LawrenceAsanka/POS-system-spring-knows-JPA-maven)
+* [POS with Layered-[Spring Data JPA Maven]](https://github.com/LawrenceAsanka/POS-system-spring-data-jpa-maven)
 
 ##### DASHBOARD
 ![Dashboard](screenshots/Dashboard.png?raw=true "DASHBOARD")
